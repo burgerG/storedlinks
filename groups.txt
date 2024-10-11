@@ -1,0 +1,7 @@
+Group: Work Tools
+https://trello.com|Trello
+https://github.com|GitHub
+
+Group: News
+https://bbc.com|BBC
+https://cnn.com|CNN
